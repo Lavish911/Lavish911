@@ -52,4 +52,67 @@ Git, GitHub, Linux, Solidity, Web3.js, GN Build System, WebSockets
 - Ensured vote integrity using smart contracts  
 - **Technologies:** Solidity, Ethereum, Node.js, MongoDB, Web3.js
 
-### IoT-Based Smart Helmet Syst
+### IoT-Based Smart Helmet System  
+*(Published – ACT-2025 Phase I)*  
+- Designed a safety system for accident, alcohol, and helmet detection  
+- Enabled real-time alerts and monitoring  
+- **Technologies:** ESP32, Sensors, MQTT/HTTP, Node.js
+
+### C++ WebSocket Client (GN Build System)
+- Implemented a secure WebSocket client supporting text and binary data  
+- Included TLS support, error handling, and unit testing  
+- **Technologies:** C++, GN, WebSockets
+
+### Personal Portfolio Website
+- Developed a responsive portfolio to showcase projects and skills  
+- **Technologies:** HTML, CSS, JavaScript, Firebase
+
+### Stopwatch Web Application
+- Built a simple stopwatch with clean UI and accurate timing  
+- **Technologies:** HTML, CSS, JavaScript
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Lavish911&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Lavish911&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lavish911&show_icons=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavish911&hide_border=true" />
+</p>
+
+---
+
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavish911&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/lavish-rahangdale-a42402263  
+- **Email:** lavishr213@gmail.com  
+
+---
+
+## Keywords (Recruiter Search Support)
+
+Artificial Intelligence, Software Engineer Intern, AI Engineer Intern,  
+Python Developer, C++ Developer, Web Developer,  
+NLP, Semantic Search, OCR, Blockchain, Solidity,  
+IoT Systems, ESP32, MQTT,  
+Node.js, MongoDB, REST APIs,  
+Git, Linux, WebSockets, GN Build System
