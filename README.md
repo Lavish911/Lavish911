@@ -1,108 +1,89 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Lavish%20Rahangdale&fontSize=32&fontAlignY=50" />
-</p>
+<div align="center">
 
-<h3 align="center">AI / ML Engineer | Full Stack Developer</h3>
+# Lavish Rahangdale
 
----
+### AI/ML Engineer · Full-Stack Developer
 
-## About Me
+B.Tech AI & ML graduate building practical AI systems, real-time applications, and production-oriented web software.
 
-I am a final-year **B.Tech student in Artificial Intelligence and Machine Learning** with experience in building **AI-driven systems and full stack web applications**.
+[Portfolio](https://chic-cupcake-e22e59.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/lavish-rahangdale) · [Email](mailto:lavishr213@gmail.com)
 
-My interests lie in **Generative AI, RAG pipelines, scalable backend systems, and real-time applications**.  
-I focus on writing clean, maintainable code and building systems that solve real-world problems.
+</div>
 
 ---
 
-##  Areas of Interest
-- Artificial Intelligence & Machine Learning  
-- Generative AI, LLMs, RAG Pipelines  
-- Full Stack Web Development  
-- System Design & Scalable Architectures  
-- Real-Time and Cloud-Based Applications  
+## About
 
----
+I’m an AI & ML graduate with hands-on internship experience in full-stack development and AI-driven systems.
 
-##  Technical Skills
+I enjoy working across the stack — from machine learning pipelines and APIs to responsive interfaces, real-time communication, containerized applications, and cloud deployment.
+
+My focus is on building software that is practical, maintainable, and ready to move beyond the prototype stage.
+
+## What I Build
+
+- AI/ML applications and inference pipelines
+- Full-stack web applications
+- Real-time applications with Socket.io
+- REST APIs and backend services
+- Containerized applications and cloud deployments
+
+## Featured Work
+
+### Interview Copilot AI
+Real-time AI interview assistant built with React, Node.js, Socket.io, Gemini API, and Docker.
+
+### AURA AI
+Multimodal recommendation system using facial-expression and text-based signals with a complete ML pipeline.
+
+### SRRIS
+Healthcare AI decision-support system combining machine learning, NLP, OCR, and causal-analysis components.
+
+## Technical Stack
 
 **Languages**  
-Python, Java, C++, JavaScript (ES6+), SQL, HTML, CSS  
+Python · JavaScript · SQL · C++
 
-**Frameworks & Libraries**  
-React.js, Node.js, Express.js, Streamlit, LangChain  
-TensorFlow, Pandas, NumPy, Scikit-learn  
+**Frontend**  
+React · HTML · CSS
 
-**AI, Cloud & DevOps**  
-Generative AI, LLMs, RAG, Computer Vision  
-Google Gemini API, AWS, Docker, Linux, Firebase  
+**Backend**  
+Node.js · Express · FastAPI · REST APIs · Socket.io
 
-**Concepts & Tools**  
-System Design, Microservices, REST APIs  
-CI/CD, Agile/Scrum, Unit Testing  
-Git, GitHub, Postman  
+**AI / ML**  
+Scikit-learn · XGBoost · Keras · NLP · Computer Vision
 
----
+**Data**  
+MongoDB · SQLite · Pandas · NumPy · Matplotlib
+
+**DevOps / Cloud**  
+Docker · AWS EC2 · CI/CD · Linux · Git
+
+**Engineering**  
+DSA · OOP · DBMS · Agile/Scrum · Unit Testing
 
 ## Experience
 
-### Full Stack Developer — Byte Uprise (Remote)  
-**July 2025 – Present**
-- Designed and deployed scalable web applications using React.js and Node.js  
-- Built microservices-based systems supporting **10,000+ active users**  
-- Improved frontend performance by **30%**  
-- Implemented JWT authentication and unit testing  
+**Full Stack Developer Intern — Ativeer Solutions**  
+Jul 2025 – Jan 2026
 
-### Full Stack Developer — Ativeer Solutions (On-site)  
-**April 2025 – May 2025**
-- Developed backend services for an e-commerce platform  
-- Implemented efficient product search and listing logic  
-- Improved UI responsiveness and user engagement  
+- Built and optimized full-stack e-commerce features using React.js, Node.js, and MongoDB.
+- Worked on backend services handling 1,000+ daily requests and responsive applications supporting 10,000+ active users.
+- Improved data-driven UI/UX with measurable gains in session duration.
 
----
+**Web Development Intern — Byte Uprise**  
+Apr 2025 – May 2025
 
-##  Projects
+- Built full-stack features with React and Node.js.
+- Improved frontend performance by 30% through code splitting, lazy loading, and caching.
+- Implemented JWT authentication and unit testing in an Agile/Scrum workflow.
 
-### Interview Copilot AI (Final Round)
-- Real-time AI assistant for technical interviews  
-- Low-latency responses using WebSockets (<2 seconds)  
-- Coding mode for generating production-ready code  
-- **Tech:** React, Node.js, Socket.io, Google Gemini API, Docker  
+## Currently
 
-### AURA AI — Multimodal Recommendation Engine
-- Emotion-aware recommendation system using CV and NLP  
-- **Tech:** Python, Streamlit, DeepFace, Transformers  
+🎯 Looking for AI/ML and Full-Stack engineering opportunities.
 
-### ProLab Equipment — Scientific E-Commerce Platform
-- B2B e-commerce platform with inventory and currency management  
-- **Tech:** React.js, Node.js, SQLite, AWS EC2  
+## Connect
 
-### IoT-Based Smart Helmet System *(Published – ACT-2025 Phase I)*
-- Accident and alcohol detection system with real-time alerts  
-- **Tech:** ESP32, Sensors, MQTT/HTTP, Node.js  
-
----
-
-##  Education
-
-**B.Tech in Artificial Intelligence and Machine Learning**  
-G.H. Raisoni College of Engineering and Management, Nagpur  
-2022 – 2026  
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lavish911&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavish911&layout=compact)
-
----
-
-##  Contact
-
-- **Email:** lavishr213@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/lavish-rahangdale  
-
----
-
-Thanks for visiting my profile.
+- Portfolio: https://chic-cupcake-e22e59.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/lavish-rahangdale
+- Email: lavishr213@gmail.com
