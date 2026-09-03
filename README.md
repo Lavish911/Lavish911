@@ -6,7 +6,7 @@
 
 B.Tech AI & ML graduate building practical AI systems, real-time applications, and production-oriented web software.
 
-[Portfolio](https://chic-cupcake-e22e59.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/lavish-rahangdale) · [Email](mailto:lavishr213@gmail.com)
+[Portfolio](https://lavishs-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/lavish-rahangdale) · [Email](mailto:lavishr213@gmail.com)
 
 </div>
 
@@ -84,6 +84,6 @@ Apr 2025 – May 2025
 
 ## Connect
 
-- Portfolio: https://chic-cupcake-e22e59.netlify.app/
+- Portfolio: https://lavishs-portfolio.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/lavish-rahangdale
 - Email: lavishr213@gmail.com
